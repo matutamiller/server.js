@@ -1,2 +1,2 @@
 # server.js
-My first server.
+My server
